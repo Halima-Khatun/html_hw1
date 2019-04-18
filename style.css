@@ -1,0 +1,32 @@
+li{
+    list-style-type: none;
+    display: inline;
+    padding-right: 50px;
+  
+}
+ul{
+    background-color: red;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+li:hover{
+    background-color: green;
+}
+ul:hover{
+    background-color: lightblue;
+}
+.column {
+    float: left;
+    width: 31%;
+    padding: 10px;
+    height: 300px;
+}
+footer{
+    background-color: black;
+    text-align: center;
+    
+}
+table,th,td{
+    border: 1px solid;
+    border-collapse: collapse;
+}
